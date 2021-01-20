@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Radio Podcast</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h2 class="center">Radio Podcast</h2>
+      <input readonly disabled value="85.0" type="text" id="frequencyInput" />
+      <input
+        min="85.0"
+        max="100"
+        step="0.1"
+        value="80.0"
+        type="range"
+        id="frequencyRange"
+      />
+      <div id="podcast">
+        <p>Nenhum podcast encontrado</p>
+      </div>
+    </div>
+    <script defer src="./js/script.js"></script>
+  </body>
+</html>

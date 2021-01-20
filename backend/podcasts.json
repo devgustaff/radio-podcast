@@ -1,0 +1,40 @@
+{
+  "podcasts": [
+    {
+      "frequency": "85.5",
+      "title": "Bitcoin",
+      "description": "Bitcoin é uma moeda digital, descentralizada e que não necessita de terceiros para funcionar. Isso significa que você não depende de bancos, grandes corporações ou governos para movimentar o seu dinheiro. Com o Bitcoin, o dinheiro é realmente seu. O Bitcoin foi a primeira criptomoeda do mundo e há oito anos funciona sem qualquer interrupção, baseada em uma rede descentralizada extremamente segura chamada Blockchain criada por Satoshi Nakamoto.",
+      "img": "img1.jpg"
+    },
+    {
+      "frequency": "87.9",
+      "title": "Mini indíce",
+      "description": "O índice Bovespa foi criado em 1968, e é o principal indicador de desempenho médio dos ativos mais negociados e representativos do mercado de ações do Brasil. Ele é o resultado de uma carteira teórica de ações e units, e o peso de cada empresa varia de acordo com as regras de composição do índice. Ele é reavaliado a cada 4 meses. Não há um número fechado de ações, e sim o volume das ações, então, pode variar o número de ações que compõem esse índice.",
+      "img": "img2.jpg"
+    },
+    {
+      "frequency": "89.5",
+      "title": "Mini dolar",
+      "description": "O dólar comercial é a cotação dada ao dólar em relação a qualquer moeda (em especial, no Brasil, ao real) em transações comerciais internacionais, isto é, em importações e exportações. Tem forte função dentro da economia, de modo que a sua exclusiva valorização ou desvalorização já é suficiente para desestabilizar todo o mercado financeiro.",
+      "img": "img3.jpg"
+    },
+    {
+      "frequency": "95.5",
+      "title": "Ações",
+      "description": "Vamos direto ao ponto: ações são títulos que representam uma fração do valor das companhias ou sociedades anônimas. Ou seja, uma ação é como se fosse um pedaço de uma empresa. ",
+      "img": "img4.jpg"
+    },
+    {
+      "frequency": "97.9",
+      "title": "Binárias",
+      "description": "Elas também são chamadas de opções digitais ou de retorno fixo. Podemos dizer que investir em uma Opção Binária é o mesmo que “apostar” na tendência de queda ou de alta de algum ativo.",
+      "img": "img5.jpg"
+    },
+    {
+      "frequency": "99.5",
+      "title": "Digitais",
+      "description": "O termo Opções Digitais pode parecer bastante familiar, mas com certeza é uma novidade recente que vai mudar o rumo desse nicho e reinventar o conceito de Investir Online. Esta nova ferramenta, lançada pela veterana IQ Option promete unir em um só modelo de investimentos os conceitos básicos de Opções Binárias, Opções Clássicas e as Opções de “Um-toque” (um tipo de serviço binário já utilizado por algumas corretoras).",
+      "img": "img6.jpg"
+    }
+  ]
+}
